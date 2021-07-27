@@ -1,3 +1,5 @@
+
+
 def do_turn(pw):
     if len(pw.my_fleets()) >= 1:
         return
